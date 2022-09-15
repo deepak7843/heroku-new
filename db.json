@@ -1,0 +1,21 @@
+
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "shankar",
+        "age": 29,
+        "place": "Visakhapatnam",
+        "batch_name": "WEB-11",
+        "profession": "FSD"
+      },
+      {
+        "id": 1,
+        "name": "ajay",
+        "age": 32,
+        "place": "Vijayawada",
+        "batch_name": "WEB-50",
+        "profession": "FSD"
+      }
+    ]
+  }

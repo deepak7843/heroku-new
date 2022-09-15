@@ -3,15 +3,15 @@
     "users": [
       {
         "id": 1,
-        "name": "shankar",
-        "age": 29,
+        "name": "sita",
+        "age": 100,
         "place": "Visakhapatnam",
         "batch_name": "WEB-11",
         "profession": "FSD"
       },
       {
         "id": 1,
-        "name": "ajay",
+        "name": "ram",
         "age": 32,
         "place": "Vijayawada",
         "batch_name": "WEB-50",
